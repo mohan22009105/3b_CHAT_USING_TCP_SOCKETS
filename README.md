@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS       
-NAME:N.NAVYA SREE       
-REG.NO:212223040138      
+NAME:MOHAN KUMAR P       
+REG.NO:212222220026      
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
